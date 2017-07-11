@@ -35,3 +35,19 @@
     
     input[type=text],input[type=date]{...}
     [type=text]{...}
+
+- - -
+#### textarea
+对textarea大小进行可控性设置。resize:none;的时候右下角的小三角形调整大小的就消失了。
+
+    textarea{
+       /*resize:none;*/
+       width:200px;
+       height:100px; 
+       max-height:150px; 
+       min-height:100px;    
+       max-width:300px; 
+       min-width:200px; 
+    }
+    
+- - -
