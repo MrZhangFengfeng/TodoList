@@ -29,3 +29,9 @@
     <input type="date">
  
 - - -
+#### css
+
+    box-sizing: border-box;
+    
+    input[type=text],input[type=date]{...}
+    [type=text]{...}
