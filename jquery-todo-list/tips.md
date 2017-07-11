@@ -1,3 +1,15 @@
+####  npm init
+
+使用这条命令来开启一个新工程。就是产生package.json
+这会直接产生一个package.json,不会逐项询问
+
+        npm init -y 
+ 
+强制产生一个package.json
+
+        npm init -f
+
+- - -
 #### 在引入的js文件内定义一个
 
     var a = 1;
