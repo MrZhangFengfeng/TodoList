@@ -24,3 +24,8 @@
 但是如果给max-width的话会随着浏览器窗口宽度自动进行调整。自适应。
 
 - - -
+调用浏览器自带datepicker
+
+    <input type="date">
+ 
+- - -
